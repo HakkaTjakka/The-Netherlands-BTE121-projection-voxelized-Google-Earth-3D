@@ -16,6 +16,6 @@ Convert to Cubic Chunks with converter.jar
 Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.154/nl/)
 Also version with cgi-bin tile generator
 ***
-Project-obj geo coords /tpll conversion (Python)
+Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
 
 
