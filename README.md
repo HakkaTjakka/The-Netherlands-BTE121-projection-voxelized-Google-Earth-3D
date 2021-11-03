@@ -1,8 +1,10 @@
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
-
+***
+Final version will be .rar packed, only region files within border of Netherlands + 5 region files overlap. Upload will start today.
+***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/border_plain_overlap2.png)
-
+***
 Build The Earth 121 projection
 ***
 225511 region files, 3 floors (h=256), 1.12.2
