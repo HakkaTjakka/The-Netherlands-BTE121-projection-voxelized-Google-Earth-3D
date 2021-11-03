@@ -3,11 +3,11 @@
 ***
 Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
 ***
-Final version will be .rar packed, only region files within border of Netherlands + 5 region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
+Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/border_plain_overlap2.png)
 
-https://www.st-surplus.nl/
+For information on this and/or other projects, donations, support, contact https://www.st-surplus.nl/ or gerardwensink@gmail.com
 ***
 Build The Earth 121 projection
 ***
@@ -27,6 +27,17 @@ Project-obj geo coords /tpll conversion (Python) (also conversion to Python scri
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)](https://paypal.me/GerardWensink)
 ***
 For large canvas map use MinecraftWorldEditor, put region files in root: /saves/test/region/done-1, /saves/test/region/done0, /saves/test/region/done1, and use from directory (set path, see .bat file) pacman_cuberite: pacman.exe plot. Make sure the level dir (pacman.ini) is set to 200 x 400 hd images. See repo for key functions. Documentation out-dated. Msg me if you want to use the program to voxelize other regions. Then we set it up so you can do the same. (Its not easy but with right instructions you can do it to).
+***
+https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA
+https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
+***
+https://www.facebook.com/HakkaTjakka/
+https://www.facebook.com/MinecraftWorldEditor/
+***
+https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
+***
+http://83.83.222.154/
+***
 
 
 
