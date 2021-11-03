@@ -1,5 +1,0 @@
-@echo off
-call "C:\Program Files\WinRAR\winrar.exe" a HOLLAND_BTE121_MC1.12.2_REGION_FLOOR-1.EXE \HOLLAND\DONE-1\*.MCA -v49999999b
-call "C:\Program Files\WinRAR\winrar.exe" a HOLLAND_BTE121_MC1.12.2_REGION_FLOOR1.EXE \HOLLAND\DONE1\*.MCA -v49999999b
-call "C:\Program Files\WinRAR\winrar.exe" a HOLLAND_BTE121_MC1.12.2_REGION_FLOOR0.EXE \HOLLAND\DONE0\*.MCA -v49999999b
-pause
