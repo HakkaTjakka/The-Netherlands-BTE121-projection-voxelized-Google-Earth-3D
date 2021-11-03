@@ -11,7 +11,7 @@ https://www.st-surplus.nl/
 ***
 Build The Earth 121 projection
 ***
-225511 region files, 3 floors (h=256), 1.12.2
+225511 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
 ***
 59116 km²
 ***
