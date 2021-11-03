@@ -1,4 +1,6 @@
+***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
+***
 Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
 ***
 Final version will be .rar packed, only region files within border of Netherlands + 5 region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
@@ -19,5 +21,10 @@ Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.
 Also version with cgi-bin tile generator
 ***
 Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
+***
+![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)
+***
+
+
 
 
