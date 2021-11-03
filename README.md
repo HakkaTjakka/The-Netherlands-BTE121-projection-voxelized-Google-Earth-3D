@@ -28,11 +28,9 @@ Project-obj geo coords /tpll conversion (Python) (also conversion to Python scri
 ***
 For large canvas map use MinecraftWorldEditor, put region files in root: /saves/test/region/done-1, /saves/test/region/done0, /saves/test/region/done1, and use from directory (set path, see .bat file) pacman_cuberite: pacman.exe plot. Make sure the level dir (pacman.ini) is set to 200 x 400 hd images. See repo for key functions. Documentation out-dated. Msg me if you want to use the program to voxelize other regions. Then we set it up so you can do the same. (Its not easy but with right instructions you can do it to).
 ***
-https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA
-https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
+https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA          https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
 ***
-https://www.facebook.com/HakkaTjakka/
-https://www.facebook.com/MinecraftWorldEditor/
+https://www.facebook.com/HakkaTjakka/           https://www.facebook.com/MinecraftWorldEditor/
 ***
 https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
 ***
