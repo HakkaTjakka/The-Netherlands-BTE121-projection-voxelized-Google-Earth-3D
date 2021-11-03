@@ -26,6 +26,7 @@ Project-obj geo coords /tpll conversion (Python) (also conversion to Python scri
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)](https://paypal.me/GerardWensink)
 ***
+For large canvas map use MinecraftWorldEditor, put region files in root: /saves/test/region/done-1, /saves/test/region/done0, /saves/test/region/done1, and use from directory (set path, see .bat file) pacman_cuberite: pacman.exe plot. Make sure the level dir (pacman.ini) is set to 200 x 400 hd images. See repo for key functions.
 
 
 
