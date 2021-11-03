@@ -22,7 +22,7 @@ Also version with cgi-bin tile generator
 ***
 Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
 ***
-![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)](https://paypal.me/GerardWensink)
 ***
 
 
