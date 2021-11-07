@@ -11,9 +11,10 @@ For information on this and/or other projects, donations, support, contact https
 ***
 Build The Earth 121 projection
 ***
-225511 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
+(Changed...?)
+214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
 ***
-59116 km²
+56122 km²
 ***
 Sealevel at y=32 (See converter)
 ***
