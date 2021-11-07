@@ -1,6 +1,8 @@
 ***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
+Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
+***
 Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
 ***
 Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
