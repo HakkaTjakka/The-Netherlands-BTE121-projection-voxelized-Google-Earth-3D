@@ -15,6 +15,8 @@ Build The Earth 121 projection
 ***
 (Changed...?)
 214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
+
+861 GB (925,115,978,992 bytes)
 ***
 56122 km²
 ***
