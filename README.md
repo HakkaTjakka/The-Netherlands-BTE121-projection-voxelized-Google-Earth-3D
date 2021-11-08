@@ -1,33 +1,35 @@
 ***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
-Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
+# Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
 ***
-Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
+# Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
 ***
-Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
+# Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
+***
+# Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/border_plain_overlap2.png)
 
-For information on this and/or other projects, donations, support, contact https://www.st-surplus.nl/ or gerardwensink@gmail.com
+# For information on this and/or other projects, donations, support, contact https://www.st-surplus.nl/ or gerardwensink@gmail.com
 ***
-Build The Earth 121 projection
+# Build The Earth 121 projection
 ***
 (Changed...?)
-214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
+# 214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
 
-861 GB (925,115,978,992 bytes)
+# 861 GB (925,115,978,992 bytes)
 ***
-56122 km²
+# 56122 km²
 ***
-Sealevel at y=32 (See converter)
+# Sealevel at y=32 (See converter)
 ***
-Convert to Cubic Chunks with converter.jar
+# Convert to Cubic Chunks with converter.jar
 ***
-Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.154/nl/)
-Also version with cgi-bin tile generator
+# Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.154/nl/)
+# Also version with cgi-bin tile generator
 ***
-Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
+# Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)](https://paypal.me/GerardWensink) Support cloud storage.
 ***
@@ -35,13 +37,13 @@ For large canvas map use MinecraftWorldEditor, put region files in root: /saves/
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/sample-utrecht/blob/main/Test.copy/MAP/clipboard_small.jpg)
 ***
-https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA - https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
+# https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA - https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
 ***
-https://www.facebook.com/HakkaTjakka/ - https://www.facebook.com/MinecraftWorldEditor/
+# https://www.facebook.com/HakkaTjakka/ - https://www.facebook.com/MinecraftWorldEditor/
 ***
-https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
+# https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
 ***
-http://83.83.222.154/
+# http://83.83.222.154/
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/sample-utrecht/blob/main/Test.copy/PUSH_REPO/Untitled.jpg)](https://youtu.be/Uc6SIL0psZw)
 (Click to play vid)
