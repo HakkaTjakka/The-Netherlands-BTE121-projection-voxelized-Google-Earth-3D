@@ -1,6 +1,8 @@
 ***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
+# Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
+***
 Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
 ***
 Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
