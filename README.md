@@ -2,6 +2,12 @@
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
 # Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
+
+Please report broken archive files (.rar) &| damaged region files.
+
+Broken .rar archive coninued on new name.
+
+One damaged region file (not in continued .rar archive) in: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/tree/main/SICK_PUPPIES
 ***
 # Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
 ***
