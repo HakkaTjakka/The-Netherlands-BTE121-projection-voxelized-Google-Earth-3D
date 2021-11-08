@@ -1,7 +1,7 @@
 ***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
-# Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
+Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
 
 Please report broken archive files (.rar) &| damaged region files.
 
@@ -9,33 +9,33 @@ Broken .rar archive coninued on new name.
 
 One damaged region file (not in continued .rar archive) in: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/tree/main/SICK_PUPPIES
 ***
-# Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
+Use: https://desktop.github.com/ do not download zipped file(s) over and over. 
 ***
-# Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
+Demo of creating mold for BTE121 of The Netherlands with MinecraftWorldEditor c/c++
 ***
-# Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
+Final version will be .rar packed, only region files within border of Netherlands + 5+ region files overlap. Upload will start today. When uploaded the previous (sample-utrecht - sample-utrecht9) will be deleted.
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/border_plain_overlap2.png)
 
-# For information on this and/or other projects, donations, support, contact https://www.st-surplus.nl/ or gerardwensink@gmail.com
+For information on this and/or other projects, donations, support, contact https://www.st-surplus.nl/ or gerardwensink@gmail.com
 ***
 # Build The Earth 121 projection
 ***
 (Changed...?)
-# 214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
+214092 region files, 3 floors (y=0/255,y=-256/-1,y=256-511), 1.12.2
 
-# 861 GB (925,115,978,992 bytes)
+861 GB (925,115,978,992 bytes)
 ***
 # 56122 km²
 ***
-# Sealevel at y=32 (See converter)
+Sealevel at y=32 (See converter)
 ***
-# Convert to Cubic Chunks with converter.jar
+Convert to Cubic Chunks with converter.jar
 ***
-# Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.154/nl/)
-# Also version with cgi-bin tile generator
+Leaflet web zoomable map tile creator + region mapper (demo on http://83.83.222.154/nl/)
+Also version with cgi-bin tile generator
 ***
-# Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
+Project-obj geo coords /tpll conversion (Python) (also conversion to Python script from pipe for external (cgi-bin) use)
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/PAYPAL_ME.JPG)](https://paypal.me/GerardWensink) Support cloud storage.
 ***
@@ -1330,7 +1330,11 @@ For large canvas map use MinecraftWorldEditor, put region files in root: /saves/
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/Arnhem.jpg)](https://www.youtube.com/watch?v=yFBV4GQz5_Q)
 (Click to play vid)
+***
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/Apeldoorn.jpg)](https://www.youtube.com/watch?v=V_7AXxVIx8o)
+(Click to play vid)
 
+  
 
 
 
