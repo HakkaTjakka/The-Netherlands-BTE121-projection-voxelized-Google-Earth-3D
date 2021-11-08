@@ -43,13 +43,13 @@ For large canvas map use MinecraftWorldEditor, put region files in root: /saves/
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/clipboard_small.jpg)
 ***
-# https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA - https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
+https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA - https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
 ***
-# https://www.facebook.com/HakkaTjakka/ - https://www.facebook.com/MinecraftWorldEditor/
+https://www.facebook.com/HakkaTjakka/ - https://www.facebook.com/MinecraftWorldEditor/
 ***
-# https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
+https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
 ***
-# http://83.83.222.154/
+http://83.83.222.154/
 ***
 <html>
 <div>
