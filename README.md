@@ -1344,6 +1344,47 @@ http://83.83.222.154/
  ***
 https://discord.gg/6v6J2EXekA
 
+  
+.bat code for converter.jar (now testing...) should look like:
+
+  region files (r.x.y.mca) for floor -1 in: ./test-1/region
+  
+  region files (r.x.y.mca) for floor  0 in: ./test0/region
+  
+  region files (r.x.y.mca) for floor  1 in: ./test1/region
+  
+  (also put a level.dat into ./test-1, ./test0 and ./test1, not sure...)
+
+  rem Insert floor -1 at 0-255
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './test-1'" "dstWorld './RESULT1'" "inFormat Anvil" "outFormat CubicChunks" "converter Default"
+
+  rem Move 2x16(32) x 16(256) down. Floor -1 on -512
+  
+  echo move all by 0 -32 0 > relocatingConfig.txt
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './RESULT1'" "dstWorld './RESULT2'" "inFormat CubicChunks" "outFormat CubicChunks" "converter Relocating"
+  
+  rem Insert floor 1 at 0-255
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './test1'" "dstWorld './RESULT2'" "inFormat Anvil" "outFormat CubicChunks" "converter Default"
+
+  rem Move 16 x 16(256) up. Floor -1 on -256. Floor 1 on 256
+  
+  echo move all by 0 16 0 > relocatingConfig.txt
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './RESULT2'" "dstWorld './RESULT3'" "inFormat CubicChunks" "outFormat CubicChunks" "converter Relocating"
+
+  rem Insert floor 0 at 0-255
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './test0'" "dstWorld './RESULT3'" "inFormat Anvil" "outFormat CubicChunks" "converter Default"
+
+  rem Move 2x16(32) down. Floor 0, 0 on sea level (0) (was on 32)
+  
+  echo move all by 0 -2 0 > relocatingConfig.txt
+  
+  java -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar converter.jar --headless -- "srcWorld './RESULT3'" "dstWorld './RESULT4'" "inFormat CubicChunks" "outFormat CubicChunks" "converter Relocating"
+
 
 
 
