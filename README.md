@@ -55,6 +55,8 @@ https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
 http://83.83.222.154/
 ***
 Leaflet tilemap for webserver at: https://github.com/HakkaTjakka/NL_TILE_MAP (Still updating...)
+
+Leaflet zoomable tile map: https://github.com/HakkaTjakka/NL_TILE_MAP (Region .png tiles at zoomlevel 18)
 ***
 <html>
 <div>
