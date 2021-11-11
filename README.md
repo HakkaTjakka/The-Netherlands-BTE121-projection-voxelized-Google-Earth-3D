@@ -2,6 +2,8 @@
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 MAJOR BUG IN CONVERTER.RAR INSERT.BAT. UPDATED IN https://github.com/HakkaTjakka/sample-utrecht AND COPY HERE IN TOOLS!
 ***
+![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/output1636634173.mp4.gif)
+***
 Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
 
 Please report broken archive files (.rar) &| damaged region files.
