@@ -6,6 +6,10 @@ MAJOR BUG IN CONVERTER.RAR INSERT.BAT. UPDATED IN https://github.com/HakkaTjakka
 ***
 Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
 
+Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part3
+
+Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part4
+
 Please report broken archive files (.rar) &| damaged region files.
 
 Broken .rar archive coninued on new name.
@@ -50,7 +54,7 @@ https://www.youtube.com/channel/UCQxTjKzyYsHF1GLQ6ET5gUA - https://www.youtube.c
 ***
 https://www.facebook.com/HakkaTjakka/ - https://www.facebook.com/MinecraftWorldEditor/
 ***
-https://drive.google.com/drive/folders/1DHL6EKorYJqNHleFQ6wHSnP_xf4HWpXm
+Google Drive: Deleted
 ***
 http://83.83.222.154/
 ***
