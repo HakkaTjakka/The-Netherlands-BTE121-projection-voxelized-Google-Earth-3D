@@ -8,17 +8,21 @@ MAJOR BUG IN CONVERTER.RAR INSERT.BAT. UPDATED IN https://github.com/HakkaTjakka
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/output1636634173.mp4.gif)
 ***
-Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
+Continued on:
 
-Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part3
+https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part2
 
-Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part4
+https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part3
 
-Continued on: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part5
+https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part4
+
+https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part5
+
+https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D-part6
 
 Please report broken archive files (.rar) &| damaged region files.
 
-Broken .rar archive coninued on new name.
+Broken .rar archive continued on new name.
 
 One damaged region file (not in continued .rar archive) in: https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/tree/main/SICK_PUPPIES
 ***
