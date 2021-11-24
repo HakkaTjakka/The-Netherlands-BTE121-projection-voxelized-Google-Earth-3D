@@ -1,6 +1,8 @@
 ***
 # The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D
 ***
+CHECK FIXED FOR UPDATES, FIXED FILES, MISSING FILES ETC.
+***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/tiles.jpg)](https://www.youtube.com/watch?v=7LPhTDLIMq4&list=PLetXkEBOuSmaL81R-8mXmhIcgHYCi8biA)
 (Click to play vid)
 
