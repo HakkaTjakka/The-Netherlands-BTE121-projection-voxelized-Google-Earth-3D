@@ -7,6 +7,7 @@ Cubic Chunks format (Ready for Minecraft Build The Earth 121 version)
 # https://github.com/HakkaTjakka/HOLLAND_BTE121_CUBIC_1
 ***
     http://83.83.222.71/NL/ (On zoom level 18 press right mouse button for video if tile says 'VIDEO' in red)
+    http://83.83.222.71/NL/index2.html (Older Leaflet script)
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/git.jpg)](https://www.youtube.com/watch?v=7LPhTDLIMq4&list=PLetXkEBOuSmaL81R-8mXmhIcgHYCi8biA)
 (Click to play vid)
